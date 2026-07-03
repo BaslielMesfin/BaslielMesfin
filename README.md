@@ -77,7 +77,8 @@ Full-Stack Developer & Founder of **Spark Digital**. Specializing in building hi
 ---
 
 ### 📈 GitHub Stats
-[![Basliel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaslielMesfin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- We use an alternative mirror to avoid the Vercel rate-limiting issue -->
+[![Basliel's GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=BaslielMesfin&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaslielMesfin&theme=radical)](https://git.io/streak-stats)
 
 ### 🤝 Let's Connect
