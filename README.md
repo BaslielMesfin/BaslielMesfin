@@ -5,9 +5,9 @@ Full-Stack Developer & Founder of **Spark Digital**. Specializing in building hi
 ---
 
 ### 🚀 What I'm Working On
-* ⚡ **Impactful Engineering** – Architecting scalable, high-performance web and mobile solutions for clients through my software agency, Spark Digital.
-* 🎨 **Premium UI/UX Design** – Fusing full-stack development with a passion for clean, intuitive digital experiences, leveraging code alongside Webflow and Framer.
-* 🤖 **Modern Workflows** – Accelerating product delivery by combining next-generation AI workflows with robust, scalable software architecture.
+* **Impactful Engineering** – Architecting scalable, high-performance web and mobile solutions for clients through my software agency, Spark Digital.
+* **Premium UI/UX Design** – Fusing full-stack development with a passion for clean, intuitive digital experiences, leveraging code alongside Webflow and Framer.
+* **Modern Workflows** – Accelerating product delivery by combining next-generation AI workflows with robust, scalable software architecture.
 
 ### 🛠️ Tech Stack & Skills
 
